@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Лабораторные работы\копия LabWork2\LabWork2\LabWork2\main.cpp(60,14): warning C4244: инициализация: преобразование "ULONGLONG" в "DWORD", возможна потеря данных
+  LabWork2.vcxproj -> C:\Лабораторные работы\копия LabWork2\LabWork2\Debug\LabWork2.exe
